@@ -1,0 +1,8 @@
+wifi_mode=STA
+wifi_sta_ssid=MyCarWifiSSID
+wifi_sta_pass=MyCarWifiPASS
+wifi_ap_ssid=70Mai_A810S
+wifi_ap_pass=multipass
+ftpd=1
+telnet=1
+debug=0
