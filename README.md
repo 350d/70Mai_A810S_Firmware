@@ -1,7 +1,7 @@
 # 70Mai A810S Custom Firmware
 
-Custom firmware project for the 70Mai A810S dashcam, focused on startup speed, stability, network control, and advanced power-user features.
-Based on latest 1.5.40ww OTA firmware.
+Custom firmware project for the `70Mai A810S` dashcam, focused on startup speed, stability, network control, and advanced power-user features.
+Based on latest `1.5.40ww` OTA firmware.
 
 ![70Mai A810S Custom Firmware Logo](logo.png)
 
