@@ -21,7 +21,7 @@ Based on latest 1.5.40ww OTA firmware.
 
 ## How to Flash
 
-1. Download the firmware `FW98529A.bin` file from this project release/build.
+1. Download and unzip the firmware `FW98529A.zip` file from this project release/build.
 2. Copy the `FW98529A.bin` file to the root of the SD card.
 3. Safely eject the SD card and insert it into the dashcam.
 4. Power on the device.
